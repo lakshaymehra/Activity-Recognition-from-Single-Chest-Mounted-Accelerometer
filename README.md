@@ -124,7 +124,7 @@ The optimum number of neighbors for this dataset is  25
 
 KNN Accuracy Score for Train Set:  0.7627958451290807
 
-####KNN Accuracy Score for Test Set:  0.7509030048264052
+#### KNN Accuracy Score for Test Set:  0.7509030048264052
 
 Classification Report: 
 
@@ -150,7 +150,7 @@ Classification Report:
 
 XGBoost Accuracy Score for Train Set:  0.678043562311387
 
-####XGBoost Accuracy Score for Test Set:  0.6795863822720432
+#### XGBoost Accuracy Score for Test Set:  0.6795863822720432
 
 XGBoost Classification Report:
 
@@ -186,7 +186,7 @@ Epoch 4/5
 Epoch 5/5
 48173/48173 [==============================] - 123s 3ms/step - loss: 1.1525 - accuracy: 0.5959
 
-####Neural Network Accuracy Score for Test Set: 0.5619751933156885
+#### Neural Network Accuracy Score for Test Set: 0.5619751933156885
 
 ### Thus, it is clearly evident that KNN outperforms XGBoost and Dense Neural Network for this dataset.
 ### Contact :
