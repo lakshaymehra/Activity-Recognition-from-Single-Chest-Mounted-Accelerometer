@@ -1,4 +1,4 @@
-# Vicara Activity Recognition Using Machine Learning Assignment :
+# Activity Recognition from Single Chest-Mounted Accelerometer:
 
 ## Usage Guide:
 
